@@ -1,0 +1,252 @@
+
+
+
+@media screen and (min-width:300px)  {
+
+/*****************
+HEADER
+****************/
+header {height: 3rem;}
+#Logo {width:24%;}
+#Logo h1 {font-size: 1.4rem; padding: 0.7rem 0.4rem;}
+ul{width: 76%;}
+nav li{font-size:0.6rem;}
+nav li:nth-child(1) {padding: 1.2rem 0rem 1.2rem 1rem;}
+nav li:nth-child(2){padding:1.2rem 0.2rem;}
+nav li:nth-child(3) {padding:1.2rem 1rem 1.2rem 0;}
+
+
+
+/*****************
+BODY
+****************/
+
+
+
+h4 {font-size: 1.7rem;}
+
+
+/*#about {background:rgba(0,0,0,0.7);margin:0 auto;}*/
+#about h1{font-size: 2rem; margin:1rem auto;padding:4rem 0 1.2rem 0; /*border: 0.1rem solid #fff;*/}
+
+#text-container-about {font-size: 1.2rem;padding: 0.5rem;}
+
+
+#portfolio h1 {padding:4rem 0 1.2rem 0}
+
+#client-list {height: 30rem;margin: 2rem auto;}
+
+#contact h1 {font-size: 1.3rem;padding:4rem 0 1rem 0;}
+
+/*.text-container-portfolio{display: none;}*/
+
+.services {margin: 3rem auto;}
+
+/*.divider {display: none;}*/
+
+/*.text-container {font-size:1rem;}
+*/
+#phone {width: 100%; font-size: 1rem;white-space: nowrap;margin: 3rem auto;}
+
+#contact-table {/*padding:1rem;margin: 1rem auto;*/width: 70%;}
+
+/*****************
+FOOTER
+****************/
+
+
+}
+
+
+
+@media screen and (min-width:480px) {
+
+
+/*****************
+HEADER
+****************/
+/*header {height: 3rem;}*/
+/*#Logo {width:24%;}*/
+/*#Logo h1 {font-size: 1.4rem; padding: 0.7rem 0.4rem;}*/
+/*ul{width: 74%;}*/
+nav li{font-size:0.6rem;padding: 1.2rem 1rem;}
+
+
+/*****************
+BODY
+****************/
+
+
+
+
+h4 {font-size: 2.2rem;}
+/*#about {background:rgba(0,0,0,0.7);margin:0 auto;}*/
+#about h1{font-size: 2rem; margin:1rem auto;padding:4rem 0 1.2rem 0; /*border: 0.1rem solid #fff;*/}
+
+#text-container-about {font-size: 1.2rem;padding: 2rem 6rem;}
+
+
+/*#portfolio h1 {padding:4rem 0 1.2rem 0}*/
+
+/*#client-list {height: 30rem;}*/
+
+/*#contact h1 {font-size: 1.3rem;padding:4rem 0 1rem 0;}*/
+
+/*.text-container-portfolio{display: none;}*/
+
+.services {margin: 0 auto; padding: 1rem;}
+
+
+
+/*.text-container {font-size:1rem;}*/
+
+/*#phone {width: 100%; font-size: 1rem;white-space: nowrap;margin: 0 auto;}*/
+
+#contact-table {/*padding:1rem;margin: 1rem auto;*/width: 40%;}
+/*****************
+FOOTER
+****************/
+
+
+}
+
+
+@media screen and (min-width:660px) {
+
+
+/*****************
+HEADER
+****************/
+/*header {height: 3rem;}*/
+/*#Logo {width:24%;}*/
+#Logo h1 {font-size: 2rem; padding: 0.7rem 0.4rem;}
+/*ul{width: 76%;}*/
+nav li{font-size:1rem;}
+
+nav li{font-size:0.6rem;padding: 1.2rem 1rem;}
+
+
+/*****************
+BODY
+****************/
+
+
+
+
+/*#about {background:rgba(0,0,0,0.7);margin:0 auto;}
+*/#about h1{font-size: 2.7rem;/* margin:1rem auto;padding:4rem 0 1.2rem 0; *//*border: 0.1rem solid #fff;*/}
+
+/*#text-container-about {font-size: 1.2rem;padding:2rem 6rem;}*/
+
+.services {float: left;width: 45%;margin:2.5% ;padding: 0.6rem;transition: all .2s ease-in-out; }
+.services:hover {transform: scale(1.1);background-color:rgba(239,159,4, 0.5);border-radius: 0.1rem;text-shadow:0.1rem 0.1rem 0.3rem #000;}
+.services:hover h4{color:#fff;}
+/*#portfolio h1 {padding:4rem 0 1.2rem 0}*/
+
+#client-list {margin: 2rem auto;}
+
+/*#contact h1 {font-size: 1.3rem;padding:4rem 0 1rem 0;}
+*/
+/*.text-container-portfolio{display: none;}*/
+
+
+/*.text-container {font-size:1rem;}
+*/
+/*#phone {width: 100%; font-size: 1rem;white-space: nowrap;margin: 0 auto;}
+*/
+#contact-table {/*padding:1rem;margin: 1rem auto;*/width: 30%;}
+
+
+/*****************
+FOOTER
+****************/
+
+
+}
+
+
+@media screen and (min-width:1024px) {
+
+
+/*****************
+HEADER
+****************/
+header {height: 4rem;}
+/*#Logo {width:24%;}*/
+/*#Logo h1 {font-size: 2rem; padding: 0.7rem 0.4rem;}*/
+/*ul{width: 76%;}*/
+nav li{font-size:1rem;padding: 1.5rem 1rem;}
+
+
+/*****************
+BODY
+****************/
+
+
+
+h4 {font-size: 2.5rem;}
+
+
+/*#about {background:rgba(0,0,0,0.7);margin:0 auto;}
+*/#about h1{font-size: 4rem;/* margin:1rem auto;padding:4rem 0 1.2rem 0;*/ /*border: 0.1rem solid #fff;*/}
+
+#text-container-about {font-size: 1.5rem; padding:2rem 15rem;}
+h4 {font-size: 2.5rem;}
+.text-container {font-size: 1.5rem;}
+
+#portfolio h1 {font-size: 3rem;}
+
+#contact h1 {font-size: 3rem;} 
+
+/*#portfolio h1 {padding:4rem 0 1.2rem 0}*/
+
+/*#client-list {height: 40rem;margin: 2rem auto;}*/
+
+/*#contact h1 {font-size: 1.3rem;padding:4rem 0 1rem 0;}
+*/
+/*.text-container-portfolio{display: none;}*/
+
+/*.services {padding: 1rem;}*/
+
+/*.text-container {font-size:1rem;}*/
+
+/*#phone {width: 100%; font-size: 1rem;white-space: nowrap;margin: 0 auto;}
+*/
+
+/*****************
+FOOTER
+****************/
+
+
+}
+/*****************
+HEADER
+****************/
+@media screen and (min-width:1600px) {
+header {height: 5rem;}
+#Logo h1 {font-size: 3rem}
+nav li:nth-child(1n+0) {padding: 2rem;}
+
+
+/*****************
+BODY
+****************/
+
+
+#about h1{font-size: 6rem;/* margin:1rem auto;padding:4rem 0 1.2rem 0; *//*border: 0.1rem solid #fff;*/}
+
+#text-container-about {font-size: 2rem;padding: 4rem 25rem;}
+
+h4 {font-size: 3rem;}
+.text-container {font-size: 2rem;}
+
+#portfolio h1 {font-size: 3rem;}
+
+#contact h1 {font-size: 3rem;} 
+
+#phone {margin: 4rem auto;}
+
+/*****************
+FOOTER
+****************/
+}
