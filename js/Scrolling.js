@@ -8,7 +8,7 @@
 			        $('html, body').animate({
 			          scrollTop: target.offset().top
 			        }, 750);
-			        return false;
+			        return false;debugger;
 			      }
 			    }
 			  });
